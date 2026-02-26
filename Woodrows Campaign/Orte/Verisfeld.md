@@ -8,5 +8,10 @@ Fakten/Infos:
 
 - Das Dorf ist mit dem Anbau von Wein und Obst beschäftigt
 
-Das Fruchtfest:
+**Das Fruchtfest:**
+
+Während dieses Festes verkleiden sich Kinder mit Frucht-Kostümen und es finden diverse Wettkämpfe statt. Natürlich wird getanzt und reichlich Obstwein und Schnaps getrunken.
+
+Fakten:
 - Findet zur Zeit der Geschichte statt
+- 
