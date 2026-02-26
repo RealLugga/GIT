@@ -1,6 +1,4 @@
 
-Die Darkriders sind eine Handvoll Tunichtgute, die sich in den nahegelegenen Wäldern verstecken.
+Die Darkriders sind eine Handvoll Tunichtgute, die sich in den nahegelegenen Wäldern verstecken und gerne mal mit ihrem Schabernack Verisfeld in Schach halten
 
-Anführer unbekannt
-
-Truppenführer
+Anführer Jarko
