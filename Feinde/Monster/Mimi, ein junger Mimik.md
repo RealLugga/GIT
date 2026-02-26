@@ -1,0 +1,2 @@
+Stats:
+![[Mimi stats.png]]

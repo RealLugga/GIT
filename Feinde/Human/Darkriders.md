@@ -7,3 +7,7 @@ Anführer **[[Jarko]]**:
 
 Die verbliebenen Darkrider beobachten aus einigem Abstand das Fest.
 - Wichtig: Am Morgen nach dem Fest überfallen die Darkriders den Wanderzoo und befreien das Rostmonster.
+
+
+
+![[Are the Darkriders bad.png]]
