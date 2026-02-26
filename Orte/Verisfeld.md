@@ -7,3 +7,6 @@ Fakten/Infos:
 - Die nächste größere Stadt ist nur ein paar Tagesreisen auf der naheliegenden Handelsstraße entfernt
 
 - Das Dorf ist mit dem Anbau von Wein und Obst beschäftigt
+
+Das Fruchtfest:
+- Findet zur Zeit der Geschichte statt
