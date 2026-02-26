@@ -4,3 +4,6 @@ Die Darkriders sind eine Handvoll Tunichtgute, die sich in den nahegelegenen Wä
 Anführer **[[Jarko]]**:
 	Von [[Darkriders]] in eine Falle gelockt und gefangen genommen
 		befindet sich nun in einem Gefängnis in [[Verisfeld]] 
+
+Die verbliebenen Darkrider beobachten aus einigem Abstand das Fest.
+- Wichtig: Am Morgen nach dem Fest überfallen die Darkriders den Wanderzoo und befreien das Rostmonster.
