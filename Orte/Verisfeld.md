@@ -10,7 +10,7 @@ Fakten/Infos:
 
 **Das Fruchtfest:**
 
-Während dieses Festes verkleiden sich Kinder mit Frucht-Kostümen und es finden diverse Wettkämpfe statt. Natürlich wird getanzt und reichlich Obstwein und Schnaps getrunken.
+Während dieses Festes verkleiden sich Kinder mit Frucht-Kostümen und es finden diverse Wettkämpfe statt. Natürlich wird getanzt und reichlich Obstwein und Schnaps getrunken. In diesem Jahr ist als besondere Attraktion ‘[[Woodrows Wundersamer Wanderzoo]]’ angereist.
 
 Fakten:
 - Findet zur Zeit der Geschichte statt
