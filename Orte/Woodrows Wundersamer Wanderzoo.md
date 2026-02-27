@@ -11,4 +11,4 @@ Attraktionen:
 
 Nachdem [[Gnurpsi, das Rostmonster]] von einer Gruppe versteckender [[Darkriders]] befreit wurde, zerstört der die Wägen aller Monster, wobei [[Argo, ein junger Allosaurus]], die [[Cockatricen]] und [[Mimi, ein junger Mimik]].
 
-Die [[Darkriders]] schaffen es nach dem Chaos das Rostmonst
+Die [[Darkriders]] schaffen es nach dem Chaos das Rostmonster zu bändigen.
