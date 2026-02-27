@@ -15,7 +15,14 @@ Ablauf der Kampagne:
 
 [[Marktplatz Verisfeld|Karte des Marktplatzes]]
 
-Auftritt [[Harpo Brantschwert]] - ==!Vorlesen!==
+Auftritt [[Harpo Brantschwert]] - ==!VORLESEN!==
 	![[Schlusstext Szene 1.png]]
 
+
+**SZENE 2**
+
+Der Festplatz des Dorfes liegt nur ein paar Minuten entfernt neben dem Dorf.
+
+==!VORLESEN!==
+	![[Intro Szene 2.png]]
 
