@@ -11,3 +11,6 @@ Ablauf der Kampagne:
 ==!VORLESEN!==
 ![[Intro.png]]
 
+[[Argo, ein junger Allosaurus|Infos über den Argo]]
+
+[[Marktplatz Verisfeld|Karte des Marktplatzes]]
