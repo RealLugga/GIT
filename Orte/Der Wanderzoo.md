@@ -6,3 +6,6 @@ Erwähnenswerte Details zum Wanderzoo:
 	- Weiteres Fragen über Mimi (Erneut **SG 12**), teilt einem mit, dass Mimi sehr verspielt ist, gerne Lakritze frisst und am liebsten die Form eines Fasses annimmt
 - Das Schloss des ‘Hühnerwagens’ wurde weggerostet. Von den beiden Cockatricen fehlt jede Spur. Neben dem Wagen steht immer noch der versteinerte Clonky.
 - Bei einem Überlebenscheck mit **SG 12** lassen sich die spuren von 3-4 Dieben finden, die zuerst das Rostmonster befreit haben, dann aber die Kontrolle verloren
+
+
+❗ **Falls die Gruppe im Zoo nach nützlicher Ausrüstung sucht, finden sie ein 30 Meter Seil und ein Netz.** ❗

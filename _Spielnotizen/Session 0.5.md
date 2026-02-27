@@ -32,5 +32,5 @@ Entwicklung:
 
 Nachdem sich Harpo Brantschwert etwas abgeregt hat, bietet er den Heldinnen und Helden 10 Gold pro beseitigtes Tier an. Harpo ist es egal, ob die Tiere gefangen oder getötet werden. Woodrow überbietet die Prämie des Burgomeisters und zahlt 50 Gold für jedes lebendige Tier, das zum Zoo zurück gebracht wird. 
 
-**Falls die Gruppe im Zoo nach nützlicher Ausrüstung sucht, finden sie ein 30 Meter Seil und ein Netz.**
+❗ **Falls die Gruppe im Zoo nach nützlicher Ausrüstung sucht, finden sie ein 30 Meter Seil und ein Netz.** ❗
 
