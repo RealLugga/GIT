@@ -1,0 +1,1 @@
+Ihre gefährlichen Fähigkeiten werden mit Hilfe von Clonky, einem Hund, demonstriert, der auf dem Höhepunkt des Festes von den Biestern versteinert wird. Der Hund steht dann für 24 Stunden als Statue im Lager rum, bis die Wirkung des Versteinerungsangriffes abklingt.
