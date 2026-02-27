@@ -26,3 +26,5 @@ Der Festplatz des Dorfes liegt nur ein paar Minuten entfernt neben dem Dorf.
 ==!VORLESEN!==
 	![[Intro Szene 2.png]]
 
+[[Woodrows Wundersamer Wanderzoo|Infos zum Wanderzoo]] 
+

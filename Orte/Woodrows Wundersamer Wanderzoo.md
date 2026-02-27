@@ -1,6 +1,10 @@
 
 Bei dem Woodrows Zoo handelt es sich um eine kleine Karawane von Käfig-Wagen, in denen verschiedene Monster aus den unzivilisierten Gebieten der Welt präsentiert werden.
 
+Besitzer des Zoos: [[Woodrow]]
+Tierpfleger des Zoos: [[Harrow]]
+
+
 Attraktionen:
 - [[Argo, ein junger Allosaurus]] aus Chult.
 - [[Die drei kleinen Schweinchen]], ein Trio dressierter Zwergschweine.
