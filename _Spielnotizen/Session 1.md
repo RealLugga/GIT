@@ -11,4 +11,3 @@ Ablauf der Kampagne:
 ==!VORLESEN!==
 ![[Intro.png]]
 
-Wo: [[Zum Drosselbart]] 
