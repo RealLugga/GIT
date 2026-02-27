@@ -3,6 +3,7 @@ Bei dem Woodrows Zoo handelt es sich um eine kleine Karawane von Käfig-Wagen, i
 
 Besitzer des Zoos: [[Woodrow]]
 Tierpfleger des Zoos: [[Harrow]]
++ 2 weitere Ork Wachen
 
 
 Attraktionen:
