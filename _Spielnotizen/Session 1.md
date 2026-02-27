@@ -9,10 +9,13 @@ Ablauf der Kampagne:
 **SZENE 1**
 
 ==!VORLESEN!==
-![[Intro.png]]
+	![[Intro.png]]
 
 [[Argo, ein junger Allosaurus|Infos über den Argo]]
 
 [[Marktplatz Verisfeld|Karte des Marktplatzes]]
+
+Auftritt [[Harpo Brantschwert]] - ==!Vorlesen!==
+	![[Schlusstext Szene 1.png]]
 
 
