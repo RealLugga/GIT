@@ -4,4 +4,8 @@ Kleines Rotbraunes Schleimähnliches Monster
 - in einem Wagen aus stabilen Bambusstangen untergebracht
 
 Wird von den [[Darkriders]] am Morgen nach dem Fest befreit, konnten jedoch das Monster nicht unter Kontrolle bringen.
-Monster betri
+
+Gnurpi bereit alle Monster des [[Woodrows Wundersamer Wanderzoo]], indem er die Eisengitter der käfige rosten lässt
+
+
+
