@@ -35,6 +35,8 @@ Beobachtungen IN [[Frau Nulls Laden]]:
 **SZENE 5 - Die Flucht**
 
 **INTRO**
-Dies passiert nachdem die 
+
+Dies passiert nachdem die Spieler das letzte Monster abgeliefert haben
 ![[Intro Szene 5.png]]
 
+[[Harpo Brantschwert]] schiebt einen Crashout über die [[Darkriders]]
