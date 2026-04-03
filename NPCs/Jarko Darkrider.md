@@ -21,6 +21,10 @@ Anführer der [[Darkriders]]
 
 Der Kundschafter hat Vorteil bei Weisheitsprüfungen (Wahrnehmung), die sich auf das Hören oder Sehen beziehen.
 
+#### Tiere führen +5
+
+mit der er [[Gnurpsi, das Rostmonster]] auf die Spielerinnen und Spieler hetzt, sobald sie in Sichtweite sind.
+
 ### Aktionen
 
 #### Mehrfachangriff

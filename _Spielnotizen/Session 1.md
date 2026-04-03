@@ -69,4 +69,9 @@ ANKUNFT BEI DEN [[Darkriders|DARKRIDERS]] an der Grenze zum Wald
 
 Die [[Darkriders]] bestehen aus 4 [[Banditen]] und Jarko himself, dieser hat nun auch [[Gnurpsi, das Rostmonster]] unter Kontrolle.
 
+#### Entwicklung: 
+Sobald das Rostmonster die Gruppe angegriffen hat, stürzen sich die Darkriders im Nahkampf auf die Abenteurerinnen und Abenteurer.
+
+
+
 
