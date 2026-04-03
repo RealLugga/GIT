@@ -1,14 +1,15 @@
 Ihre gefährlichen Fähigkeiten werden mit Hilfe von Clonky, einem Hund, demonstriert, der auf dem Höhepunkt des Festes von den Biestern versteinert wird. Der Hund steht dann für 24 Stunden als Statue im Lager rum, bis die Wirkung des Versteinerungsangriffes abklingt.
 
-Rüstungsklasse: 15 (Natürliche Rüstung)
+**Rüstungsklasse:** 15 (Natürliche Rüstung)
 
-Trefferpunkte:  52 (8W8 + 16)
+**Trefferpunkte:**  52 (8W8 + 16)
 
-Geschwindigkeit: 6
+**Geschwindigkeit:** 6
 
 |ST|GE|KO|IN|WE|CH|
 |---|---|---|---|---|---|
 |+16|+8|+15|+2|+8|+7|
+
 **Sinne:**  Dunkelsicht 18m, Passive Wahrnehmung 9
 
 **Eigenschaften**
