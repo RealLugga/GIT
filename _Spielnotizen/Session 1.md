@@ -12,7 +12,8 @@ Die resolute Gnomin [[Nullane Nedanull]] ([[Gemeine]]), im Dorf bekannt als ‘F
 
 ![[Introtext Szene 4.png]]
 
-Es handelt sich um [[Mimi, ein junger Mimik]]. 
+Es handelt sich um [[Mimi, ein junger Mimik]].
+- Sollten sich die Heldinnen und Helden erfolgreich anschleichen (Mimis passive Wahrnehmung ist 10) können sie den Mimik dabei überraschen, wie er in der Form einer kleinen Bonbon-Kiste durch den Laden trippelt und seine Tentakel in Behälter steckt, um nach weiteren Leckereien zu suchen. 
 
 Bei Befragung von [[Nullane Nedanull]]: 
 - Der Handelsposten ist ein zweistöckiges Haus mit einem Hintereingang für Lieferanten.
@@ -22,3 +23,10 @@ Bei Beobachten von [[Frau Nulls Laden]]:
 - Ein Blick durch die Eingangstür zeigt, dass die Gläser und Kästen mit Süssigkeiten, die Frau Null neben ihrer Kasse anbietet, umgestoßen wurden.
 - Im ersten Stock ist noch alles schön aufgeräumt
 - Der Rest des Ladens ist zugestellt mit Waren aller Art. Da Frau Null auch die berühmten Weine und Schnäpse von Verisfield verkauft, stehen zwei Dutzend Fässer verschiedener Größe im Laden.
+
+Beobachtungen IN [[Frau Nulls Laden]]:
+- Eine gezielte Suche nach Ködern für den Mimik oder ein Weisheitswurf (Wahrnehmung) SG 15 entdeckt eine kleine verschlossene Kiste mit Lakritzstangen hinter Frau Nulls Kassentresen, die Mimi schlichtweg übersehen hat.
+- Im Laden befinden sich auch ein Dutzend gebrauchter Waffen. Darunter ist ein unscheinbarer [[Streitkolben der Gnade|Streitkolben]], dessen magische Eigenschaften Frau Null übersehen hat. (Die Gruppe kann die Waffe durch den Zauber Magie entdecken finden oder durch eine Untersuchung des Waffensortiments mit einem Intelligenzwurf (Ermitteln) SG 18.)
+	- *Solange Frau Null von der wahren Natur des Streitkolbens nichts ahnt, ist sie bereit, das Stück für 10 GM zu verkaufen.*
+
+
