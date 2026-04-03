@@ -72,6 +72,11 @@ Die [[Darkriders]] bestehen aus 4 [[Banditen]] und Jarko himself, dieser hat nun
 #### Entwicklung: 
 Sobald das Rostmonster die Gruppe angegriffen hat, stürzen sich die Darkriders im Nahkampf auf die Abenteurerinnen und Abenteurer.
 
+"*Ihr wisst nun, dass ich ein richtig guter Kämpfer bin. Was ihr aber auch noch unbedingt wissen solltet, ist, dass ich ein noch besserer Liebhaber sein kann*. - Jarko Darkrider zu einem weiblichen Spielercharakter nach der ersten Kampfrunde
+
+# Das Ende
+
+Sobald die Helden alle Monster (inklusive der Darkriders) unschädlich gemacht haben, können sie bei Burgomeister Brantschwert und Zoodirektor Woodrow die vereinbarten Belohnungen einstreichen.
 
 
 
