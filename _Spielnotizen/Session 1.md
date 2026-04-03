@@ -40,3 +40,5 @@ Dies passiert nachdem die Spieler das letzte Monster abgeliefert haben
 ![[Intro Szene 5.png]]
 
 [[Harpo Brantschwert]] schiebt einen Crashout über die [[Darkriders]]
+
+[[Wache Ulf]] erzählt
