@@ -1,2 +1,2 @@
-**SZ 3**
+**SZENE  3 - Die Cockatricen**
 
