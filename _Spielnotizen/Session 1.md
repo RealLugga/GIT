@@ -48,3 +48,5 @@ Dies passiert nachdem die Spieler das letzte Monster abgeliefert haben
 Der Burgomeister wird nun darauf drängen, dass der Auftrag erst komplett ist, wenn auch das schreckliche Rostmonster sichergestellt ist.
 	*Wenn die Gruppe auf ein Kopfgeld für die Räuber drängt, lässt sich Harpo zu einer Belohnung von 100 GM für die Ergreifung von Jarko Darkrider überreden*
 
+[[Das Gefängnis]]:
+
