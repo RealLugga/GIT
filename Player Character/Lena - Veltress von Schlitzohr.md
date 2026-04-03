@@ -1,3 +1,4 @@
+WARLOCK LEVEL 1 - HALBELF
 
 **Stats:**                                     AC: 11
 
