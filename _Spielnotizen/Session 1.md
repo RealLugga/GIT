@@ -13,3 +13,6 @@ Die resolute Gnomin [[Nullane Nedanull]] ([[Gemeine]]), im Dorf bekannt als ‘F
 ![[Introtext Szene 4.png]]
 
 Es handelt sich um [[Mimi, ein junger Mimik]]. 
+
+Bei Befragung von [[Nullane Nedanull]]: 
+- Der Handelsposten ist ein zweistöckiges Haus
