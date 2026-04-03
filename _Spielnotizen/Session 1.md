@@ -29,4 +29,5 @@ Beobachtungen IN [[Frau Nulls Laden]]:
 - Im Laden befinden sich auch ein Dutzend gebrauchter Waffen. Darunter ist ein unscheinbarer [[Streitkolben der Gnade|Streitkolben]], dessen magische Eigenschaften Frau Null übersehen hat. (Die Gruppe kann die Waffe durch den Zauber Magie entdecken finden oder durch eine Untersuchung des Waffensortiments mit einem Intelligenzwurf (Ermitteln) SG 18.)
 	- *Solange Frau Null von der wahren Natur des Streitkolbens nichts ahnt, ist sie bereit, das Stück für 10 GM zu verkaufen.*
 
+**Entwicklung:** Sollte die Gruppe Mimi lebendig fangen, erschwert sein Säureschaden den Transport zum Zoo. Solange [[Mimi, ein junger Mimik|Mimi]] bei Bewusstsein ist, verursacht er zwei Schadenspunkte pro Runde gegen Behälter, in denen er gefangen ist. Die Fässer und Kisten, die man in Frau Nulls Laden finden kann, haben 4W8 Trefferpunkte. Säcke haben 1W8 TP. Solange sich die Gruppe beeilt, sollte sie in der Lage sein, das gefangene Monster rechtzeitig im Zoo abzuliefern, der sich ca. 100 Meter vom Laden entfernt befindet.
 

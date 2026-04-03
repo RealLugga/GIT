@@ -1,0 +1,1 @@
+![[Streitkolben der Gnade.png]]
