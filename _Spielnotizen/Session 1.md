@@ -15,4 +15,10 @@ Die resolute Gnomin [[Nullane Nedanull]] ([[Gemeine]]), im Dorf bekannt als ‘F
 Es handelt sich um [[Mimi, ein junger Mimik]]. 
 
 Bei Befragung von [[Nullane Nedanull]]: 
-- Der Handelsposten ist ein zweistöckiges Haus
+- Der Handelsposten ist ein zweistöckiges Haus mit einem Hintereingang für Lieferanten.
+- Frau Null verkauft Nahrungsmittel, Werkzeuge und Ausrüstung für Bauern und Karawanen.
+
+Bei Beobachten von [[Frau Nulls Laden]]:
+- Ein Blick durch die Eingangstür zeigt, dass die Gläser und Kästen mit Süssigkeiten, die Frau Null neben ihrer Kasse anbietet, umgestoßen wurden.
+- Im ersten Stock ist noch alles schön aufgeräumt
+- Der Rest des Ladens ist zugestellt mit Waren aller Art. Da Frau Null auch die berühmten Weine und Schnäpse von Verisfield verkauft, stehen zwei Dutzend Fässer verschiedener Größe im Laden.
