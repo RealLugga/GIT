@@ -50,3 +50,12 @@ Der Burgomeister wird nun darauf drängen, dass der Auftrag erst komplett ist, w
 
 [[Das Gefängnis]]:
 
+- Wenn die Gruppe das Gefängnis untersucht, können sie [[Wache Ulf|Ulfs]] Aussage mit einem Intelligenzwurf (Ermitteln) SG 10 bestätigen.
+- Mit einem Weisheitswurf (Überleben) SG 10 können sie die Spur der geflüchteten Bande finden.
+	- Dabei finden sie heraus, dass sich Gnurpsi, das Rostmonster, immer noch bei den [[Darkriders]] befindet.
+		- *(Sollten die Heldinnen und Helden Probleme bei der Verfolgung der Darkriders haben, können ihnen Dörfler, die die Tunichtgute beobachtet haben, die Richtung weisen.)*
+
+
+**SZENE 6 - DER SHOWDOWN**
+
+Die Spur der [[Darkriders]] soll die Gruppe Richtung des angrenzenden Waldes führen. 
