@@ -44,3 +44,7 @@ Dies passiert nachdem die Spieler das letzte Monster abgeliefert haben
 [[Wache Ulf]] erzählt:
 	- Vier Darkriders rückten vor einer Stunde mit einem Rostmonster an. Das Biest fraß sich durch die Eisentür des Gefängnisses und verspeiste anschliessend das Kurzschwert der Wache. Die Wache wurde überwältigt und Jarko befreit. Danach klauten die Räuber fünf Pferde aus dem privaten Stall von Burgomeister Brantschwert und ritten auf und davon.
 	- Ulf hätte den Burgomeister gerne früher gewarnt, musste sich jedoch zuerst aus den Fesseln befreien, die ihm die Schufte angelegt hatten.
+
+Der Burgomeister wird nun darauf drängen, dass der Auftrag erst komplett ist, wenn auch das schreckliche Rostmonster sichergestellt ist.
+	*Wenn die Gruppe auf ein Kopfgeld für die Räuber drängt, lässt sich Harpo zu einer Belohnung von 100 GM für die Ergreifung von Jarko Darkrider überreden*
+
