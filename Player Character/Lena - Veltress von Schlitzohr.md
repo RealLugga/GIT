@@ -1,12 +1,12 @@
 
-**Stats:**                                     AC: 18
+**Stats:**                                     AC: 11
 
-Stärke: 18 RW +3
-Geschicklichkeit: 14 RW +2
-Konstitution: 17 RW +3
-Intelligenz: 15 RW +2
-Weisheit: 12 RW +1
-Charisma: 16 RW +3
+Stärke: 10 RW +0
+Geschicklichkeit: 13 RW +1
+Konstitution: 18 RW +4
+Intelligenz: 13 RW +1
+Weisheit: 15 RW +2
+Charisma: 20 RW +5
 
 Backstory:
 
