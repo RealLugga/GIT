@@ -67,6 +67,6 @@ ANKUNFT BEI DEN [[Darkriders|DARKRIDERS]] an der Grenze zum Wald
 (Spieler müssen sich leise verhalten, sonst Verstecken sich die Darkriders und führen einen Hinterhalt aus)
 	Die Darkriders nutzen Heimlichkeitswürfe, um sich im Wald zu verstecken, wobei ihnen das Gelände Vorteil verleiht
 
-Die [[Darkriders]] bestehen aus 4 [[Banditen]] und Jarko himself, dieser hat nun auch d
+Die [[Darkriders]] bestehen aus 4 [[Banditen]] und Jarko himself, dieser hat nun auch [[Gnurpsi, das Rostmonster]] unter Kontrolle.
 
 
