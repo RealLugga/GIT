@@ -9,3 +9,5 @@ sollen Cockatricen fangen (oder bekämpfen)
 
 Sobald die Abenteurerinnen und Abenteurer die Cockatricen unschädlich gemacht haben, taucht die nächste Person auf, die durch den Ausbruch geschädigt wurde:
 Die resolute Gnomin [[Nullane Nedanull]] ([[Gemeine]]), im Dorf bekannt als ‘Frau Null’, die Besitzerin des Handelspostens von Verisfield.
+
+![[Pasted image 20260403234231.png]]
