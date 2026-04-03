@@ -59,3 +59,14 @@ Der Burgomeister wird nun darauf drängen, dass der Auftrag erst komplett ist, w
 **SZENE 6 - DER SHOWDOWN**
 
 Die Spur der [[Darkriders]] soll die Gruppe Richtung des angrenzenden Waldes führen. 
+Nach Ankunft finden die Spieler viele Sättel, Metalteile und Schnallen die weggerostet sind.
+Wenig später kommen ihnen vier Pferde entgegen.
+	(Natürlich ist für dieses Unglück Gnurpsi verantwortlich. Allein Jarko war in der Lage, das Rostmonster von seinem Pferd fernzuhalten.)
+
+ANKUNFT BEI DEN [[Darkriders|DARKRIDERS]] an der Grenze zum Wald
+(Spieler müssen sich leise verhalten, sonst Verstecken sich die Darkriders und führen einen Hinterhalt aus)
+	Die Darkriders nutzen Heimlichkeitswürfe, um sich im Wald zu verstecken, wobei ihnen das Gelände Vorteil verleiht
+
+Die [[Darkriders]] bestehen aus 4 [[Banditen]] und Jarko himself, dieser hat nun auch d
+
+
