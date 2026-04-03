@@ -31,3 +31,10 @@ Beobachtungen IN [[Frau Nulls Laden]]:
 
 **Entwicklung:** Sollte die Gruppe Mimi lebendig fangen, erschwert sein Säureschaden den Transport zum Zoo. Solange [[Mimi, ein junger Mimik|Mimi]] bei Bewusstsein ist, verursacht er zwei Schadenspunkte pro Runde gegen Behälter, in denen er gefangen ist. Die Fässer und Kisten, die man in Frau Nulls Laden finden kann, haben 4W8 Trefferpunkte. Säcke haben 1W8 TP. Solange sich die Gruppe beeilt, sollte sie in der Lage sein, das gefangene Monster rechtzeitig im Zoo abzuliefern, der sich ca. 100 Meter vom Laden entfernt befindet.
 
+
+**SZENE 5 - Die Flucht**
+
+**INTRO**
+Dies passiert nachdem die 
+![[Intro Szene 5.png]]
+
