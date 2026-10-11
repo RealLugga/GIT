@@ -27,7 +27,7 @@ Als er am nächsten Morgen zurückkehrte, war nur noch Asche übrig.
 
 Seit diesem Tag trägt Varus den Namen Ravenstone nicht mehr als Clanbezeichnung, sondern als Schwur. Er wurde zum Ranger, zum Jäger der Dinge, die im Verborgenen leben. Jahre verbrachte er allein in der Wildnis, lernte Fallen zu stellen, lautlos zu jagen und Monster zu verfolgen. Die Raben wurden zu seinen ständigen Begleitern – ein Symbol für Tod, Erinnerung und Wahrheit.
 
-Mit der Zeit hörte er Gerüchte über ähnliche Angriffe: zerstörte Dörfer, verschwundene Karawanen, seltsame Schattenwesen. Immer wieder tauchte ein Muster auf – uralte Ruinen, Drachenmagie und eine vergessene Macht, die langsam erwachte.
+==🔴Mit der Zeit hörte er Gerüchte über ähnliche Angriffe: zerstörte Dörfer, verschwundene Karawanen, seltsame Schattenwesen. Immer wieder tauchte ein Muster auf – uralte Ruinen, Drachenmagie und eine vergessene Macht, die langsam erwachte.==
 
 Varus begann zu glauben, dass der Angriff auf seinen Stamm kein Zufall war.
 
