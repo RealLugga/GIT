@@ -1,11 +1,11 @@
 
 Kleines Rotbraunes Schleimähnliches Monster
-- (Aussehen wie Spike aus BW, nur in schleimig und stinkend)
+- (Aussehen wie Spike aus Brawlstars, nur in schleimig und stinkend)
 - in einem Wagen aus stabilen Bambusstangen untergebracht
 
 Wird von den [[Darkriders]] am Morgen nach dem Fest befreit, konnten jedoch das Monster nicht unter Kontrolle bringen.
 
-Gnurpi bereit alle Monster des [[Woodrows Wundersamer Wanderzoo]], indem er die Eisengitter der käfige rosten lässt
+Gnurpi befreit alle Monster des [[Woodrows Wundersamer Wanderzoo]], indem er die Eisengitter der käfige rosten lässt
 
 ### Rüstungsklasse: 14 (Natürliche Rüstung)
 
