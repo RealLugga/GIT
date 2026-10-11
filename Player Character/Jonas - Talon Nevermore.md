@@ -1,6 +1,6 @@
-SCHURKE LEVEL 1 - TIEFLING                              ![[Pasted image 20261011123920.png|159]]
+SCHURKE LEVEL 1 - TIEFLING                             
 
-
+![[Pasted image 20261011125305.png|154]]
 **Stats:**                                     AC: 14
 
 Stärke: 12 RW +1
